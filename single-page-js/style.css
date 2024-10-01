@@ -1,0 +1,19 @@
+body {
+    text-align:center;
+    background-image: url(https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fGVhcnRofGVufDB8fDB8fHww);
+    background-size: cover; }
+
+    h2{
+        font-family: 'Brush Script MT', cursive;
+        color: aliceblue;
+        font-size: 300%;
+    }
+  h1 {
+    font-family: 'Brush Script MT', cursive;
+    color: rgb(9, 133, 242);
+  }
+  p{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
